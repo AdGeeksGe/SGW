@@ -2,15 +2,15 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/index.html",
-      "destination": "/index",
+      "source": "/ru.html",
+      "destination": "/ru",
       "permanent": true
     }
   ],
   "rewrites": [
     {
-      "source": "/index",
-      "destination": "/index.html"
+      "source": "/ru",
+      "destination": "/ru.html"
     }
   ]
 }
